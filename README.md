@@ -15,4 +15,4 @@ Collaborators:
 - Bhavya Dave  ([@bdbhavyadave](https://github.com/bdbhavyadave))
 - Dhruvik Neharia ([dhruvikneharia.in](http://dhruvikneharia.in), [@dhruvikn](https://github.com/dhruvikn))
 - Anshu Patel  ([@ansh-ptel](https://github.com/ansh-ptel))
-- Akshat Bordia ([@akshatbordia](https://github.com/akshatbordia))
+- Akshat Bordia ([akshatbordia.xyz](http://akshatbordia.xyz)[@akshatbordia](https://github.com/akshatbordia))
